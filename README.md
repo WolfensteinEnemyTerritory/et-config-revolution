@@ -10,4 +10,4 @@ Welcome to the **et-bind-legion**: a community-driven archive of elite config sc
 ## 📦 Repository Structure
 //COPYPASTE set shooton "+attack;+sprint;set vstr shootoff"
 set shootoff "-attack;-sprint;set vstr shooton"
-bind mouse7 "+vstr shooton shootoff" FOR THE AUTOEXEC.CFG FILE IN THE DIRECTORY ETMAIN FOLDER AND PASTE IT INSIDE THE AUTOEXEC.CFG FILE
+bind mouse1 "+vstr shooton shootoff" FOR THE AUTOEXEC.CFG FILE IN THE DIRECTORY ETMAIN FOLDER AND PASTE IT INSIDE THE AUTOEXEC.CFG FILE
