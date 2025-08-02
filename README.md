@@ -36,4 +36,6 @@ set shooton "+attack;+sprint;set vstr shootoff"
 set shootoff "-attack;-sprint;set vstr shooton"
 bind mouse7 "+vstr shooton shootoff"
 
-//COPYPASTE 3 LINES FOR YOUR AUTOEXEC.CFG FILE AND PASTE IT INSIDE THE AUTOEXEC.CFG FILE
+//COPYPASTE set shooton "+attack;+sprint;set vstr shootoff"
+set shootoff "-attack;-sprint;set vstr shooton"
+bind mouse7 "+vstr shooton shootoff" FOR THE AUTOEXEC.CFG FILE IN THE DIRECTORY ETMAIN FOLDER AND PASTE IT INSIDE THE AUTOEXEC.CFG FILE
